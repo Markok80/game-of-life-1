@@ -1,5 +1,3 @@
-say !!!
-
 package com.wakaleo.gameoflife.domain;
 
 public enum Cell {
